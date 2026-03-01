@@ -2,15 +2,7 @@
 
 An interactive and visually stunning number guessing game built using **HTML, CSS, and JavaScript** with advanced animations, difficulty levels, timer, scoring system, and modern UI effects.
 
-This project demonstrates my skills in **frontend development, DOM manipulation, animations, and game logic implementation**.
-
----
-
-## 🚀 Live Demo
-
-👉 https://yourusername.github.io/guess-the-number
-
-*(Add your live link after deployment)*
+This project demonstrates my skills in **frontend development, DOM manipulation, animations, and game logic implementation**
 
 ---
 
